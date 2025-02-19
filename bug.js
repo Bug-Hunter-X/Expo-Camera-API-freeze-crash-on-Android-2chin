@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with certain Android devices. The camera preview might freeze or crash, especially when switching between cameras or using specific camera features like flash or zoom. This issue is not consistently reproducible and may depend on device-specific hardware or software configurations.
